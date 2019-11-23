@@ -3,7 +3,8 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100vw;
-  }
+  font-family: 'Fjalla One', sans-serif;
+}
 
 h1, h2 { /* titulo */
   margin: 0;
@@ -24,7 +25,6 @@ hr {
 
 #wrapper1 { /* titulo */
   position: relative;
-  font-family: 'Fjalla One', sans-serif;
   font-size: 150%;
   border: 4px dashed black ;
   margin: auto;
@@ -34,7 +34,6 @@ hr {
 
 #wrapper2 { /* texto */
   position: relative;
-  font-family: 'Fjalla One', sans-serif;
   font-size: 150%;
   margin: 20px;
   padding: 20px;
@@ -69,7 +68,7 @@ hr {
   column-gap: 40px;  
   column-rule-style: solid;
   height: 25vw;
-  /* overflow: hidden; */
+  overflow: hidden;
   display: block;
   line-height: 3vw;
 }
@@ -109,6 +108,5 @@ hr {
 /* Para centrar las imagenes en diapositivas de tres columnas */
 .centroImg {
   margin: 20px auto;
-  
   display: block;
 }
