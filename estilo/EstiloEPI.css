@@ -37,8 +37,8 @@ h3 {
 
 #imagenPres{ /* imagen */
   position: absolute;
-  top: 225px;
-  left: 1075px;
+  top: 14vw;
+  right: 4vw;
 }
 
 .next {
