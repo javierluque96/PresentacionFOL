@@ -1,0 +1,29 @@
+h1, h3, nav {
+  font-family: 'Poppins', sans-serif;
+}
+
+.w-85 {
+  width: 85%;
+}
+
+.text-responsive {
+  font-size: calc(100% + 1vw + 1vh);
+}
+
+.text-black {
+  color: black;
+}
+
+.navbar {
+  border-bottom: 0.4em solid #0275d8;
+}
+
+.navbar-brand {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.nav-item:hover {
+  background-color: #0275d8;
+  border-radius: 10px;
+}
