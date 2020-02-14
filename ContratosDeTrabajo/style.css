@@ -2,12 +2,12 @@ h1, h3, nav {
   font-family: 'Poppins', sans-serif;
 }
 
-.w-85 {
-  width: 85%;
+p, li, .text-responsive {
+  font-size: calc(1% + 0.8vw + 0.8vh);;
 }
 
-.text-responsive {
-  font-size: calc(100% + 1vw + 1vh);
+.w-85 {
+  width: 85%;
 }
 
 .text-black {
