@@ -14,12 +14,20 @@ p, li, .text-responsive {
   font-size: calc(1% + 0.8vw + 0.8vh);;
 }
 
+.lh-big {
+  line-height: 1.6;
+}
+
 .w-85 {
   width: 85%;
 }
 
 .text-black {
   color: black;
+}
+
+.text-indent {
+  text-indent: 2rem;
 }
 
 .navbar {
